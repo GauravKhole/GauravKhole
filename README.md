@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gaurav khole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav khole" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Gaurav Khole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav khole" height="30" width="40" /></a>
 <a href="https://kaggle.com/gaurav_khole16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gaurav_khole16" height="30" width="40" /></a>
 <a href="https://instagram.com/_gaurav_khole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gaurav_khole" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gaurav_khole" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gaurav_khole" height="30" width="40" /></a>
