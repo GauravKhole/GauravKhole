@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **Danny's 8 week SQL Challenge**
 
-- 🌱 I’m currently learning **Machine Learning, Data Science**
+- 🌱 I’m currently learning **Data Science, LLM, Generative AI**
 
-- 👯 I’m looking to collaborate on **Data Analysis Projects**
+- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning Projects**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **LLM and Generative AI**
 
 - 📫 How to reach me **gkhole1605@gmail.com**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/653928e5f95502c6c5207226](https://app.luminpdf.com/viewer/653928e5f95502c6c5207226)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SAROTtPs1k4mcINt1ds3WeaNKyMc9NMq/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
